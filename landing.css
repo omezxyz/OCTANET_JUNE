@@ -1,0 +1,140 @@
+.navbar{
+  
+    height: 50px;
+    width: 100%;
+    
+    box-shadow: 0 0 10px rgb(118, 117, 117);
+    
+    text-align: center;
+    background-color: rgb(180, 180, 196);
+}
+.padding{
+   
+    
+    padding-left: 550px;
+    padding-top: 10px;
+
+}
+
+a:hover{
+    color: rgb(153, 29, 29);
+}
+#home{
+
+    width: 100px;
+    
+    float: left; 
+}
+#trending{
+    width: 100px;
+   
+   float: left;
+ 
+}
+#aboutus{
+    width: 100px;
+  
+   float: left;
+}
+#contactus{
+    width: 100px;
+   float: left;
+}
+.trendingcol{
+    width: 100%;
+    height: 500px;
+    
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(98, 97, 97);
+}
+#trending1{
+    width:50%;
+    height: 100%;
+    float: left;
+    text-align: justify;
+    
+    
+    
+}
+#content1{
+    width: 100%;
+    height: 40%;
+    
+    
+    
+}
+#content2{
+    width: 100%;
+    height: 40%;
+    
+    
+}
+#trending2{
+    width: 50%;
+    height: 100%;
+    
+    float: left;
+    text-align: justify;
+}
+
+#marquee{
+    width: 100%;
+    height: 30px;
+    
+    padding-top: 12px;
+    
+   
+    box-shadow: 0 0 10px rgb(114, 113, 113);
+    
+}
+.aboutcontactcol{
+    width: 100%;
+    height: 500px;
+    
+    
+    box-shadow: 0 0 10px rgb(68, 68, 71);
+
+}
+#about{
+    width: 50%;
+    height: 480px;
+   
+    
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+    
+    box-shadow: 0 0 0px rgb(142, 140, 140);
+    overflow: scroll;
+}
+#about::-webkit-scrollbar {
+    display: none;
+}
+
+#contact{
+    width: 50%;
+    height: 480px;
+    float: left;
+    padding-top: 20px;
+    text-align: center;
+    
+    box-shadow: 0 0 0px rgb(107, 107, 107);
+    
+
+}
+#footer{
+    height: 80px;
+    text-align: center;
+    
+    padding-top: 40px;
+}
+#form{
+ width: 40%;
+    height: 40%;
+    place-content: center;
+    margin-left: 30%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(107, 107, 107);
+    background-color: rgb(147, 134, 158);
+   
+}
