@@ -76,6 +76,10 @@ a:hover{
     float: left;
     text-align: justify;
 }
+.text{
+  margin-left : 5px;
+  margin-right : 5px;
+}
 
 #marquee{
     width: 100%;
